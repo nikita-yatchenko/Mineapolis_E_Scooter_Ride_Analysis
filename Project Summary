@@ -14,3 +14,8 @@ that this is one of the most popular places people go at the end of the day. Add
 you would see that another most common place for people to go in the morning is downtown. It makes sense since that's where the
 majority of business is happening.
 
+
+Truthfulness - there was a a big problem with the dataset. There was a 5 hour discrepancy between what was shown on the website and what was in the csv. I adjusted for the time difference to maintain truthfulness of the visual. Otherwise, it would seem that people use scooter primarily in the hours between3am and 6am.
+Beauty - A simple visual with a few accents. 45 degrees rotated x labels make it easier for the reader to see the time.
+Functionality - unfortunately you cannot access the interactivity through the png, but on my website you can click on the dots and the red square will change location and the text will inform you of the most common destination at selected hour.
+Insightfulness - with this graphic we can clearly see people's movement patterns and we know where they tend to go on the scooters. This can help companies, like Lime to optimize how and where they drop scooters for the next day.
