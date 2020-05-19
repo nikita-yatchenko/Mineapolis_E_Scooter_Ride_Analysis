@@ -1,0 +1,9 @@
+Are there patterns in average number of electric scooter rides and the destination choice throughout a day in Minneapolis, Minnesota? 
+
+Sub questions: When do we expect the number of rides to decrease and when do we expect to see it increase? 
+Is there, generally, a hub for end destination? If yes, how does this hub change throughout the day?
+
+
+Analysis took place over the September through October time frame. Additionally, we added data that translated destination code to the 
+street intersection. After analysing these data we can clearly see that there are clear patterns of how citizens of Minneapolis use e-scooters.
+First, the activity dies down around 3:30am and picks back up around 10am. Please note 
